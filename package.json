@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "quickdb": "^1.0.5"
+  },
+  "name": "cfsbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
